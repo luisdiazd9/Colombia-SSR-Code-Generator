@@ -1,0 +1,9 @@
+Solo abrir el SSR COLOMBIA.application
+Manten siempre la carpeta en la misma localización dentro de tu computador, se recomienda crear un acceso directo a tu escritorio
+
+Just run SSR COLOMBIA.application
+Always keep the folder in the same location on your computer, it is recommended to create a shortcut to your desktop
+
+Soporte/Support: contact me via luis.diaz@ivao.aero
+
+Regards!
